@@ -1,1 +1,1 @@
-g
+laravel vue auth boilerplate
